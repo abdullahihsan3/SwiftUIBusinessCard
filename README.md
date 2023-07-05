@@ -23,8 +23,8 @@ I'm a mobile application developer working mainly in Flutter, Swift and SwiftUI.
 Flutter, Swift, SwiftUI, Java, Figma
 
 
-![Swift Logo](https://icons8.com/icon/24465/swift)
+![Swift Logo](https://img.icons8.com/?size=512&id=24465&format=png)
 
-![SwiftUI Logo](https://icons8.com/icon/HO4ZeQOTgkWV/swiftui)
+![SwiftUI Logo](https://img.icons8.com/?size=512&id=24464&format=png)
 
 
