@@ -23,8 +23,10 @@ I'm a mobile application developer working mainly in Flutter, Swift and SwiftUI.
 Flutter, Swift, SwiftUI, Java, Figma
 
 
-![Swift Logo](https://img.icons8.com/?size=512&id=24465&format=png)
 
-![SwiftUI Logo](https://img.icons8.com/?size=512&id=24464&format=png)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,swift,java,mongodb)](https://skills.thijs.gg)
+
+
+
 
 
