@@ -7,7 +7,7 @@ A simple project created to display the image, designation, phone number and ema
 
 ## Screenshots
 
-![App Display](https://drive.google.com/file/d/1ozAFkN4uPL_opFwwfiSAbo_ZybfBjcl0/view?usp=sharing)
+![App Display](https://github.com/abdullahihsan3/SwiftUIBusinessCard/issues/1)
 
 
 ## 🚀 About Me
